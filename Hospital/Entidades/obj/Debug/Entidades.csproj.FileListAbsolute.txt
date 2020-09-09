@@ -1,0 +1,5 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Entidades\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Entidades\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Entidades\obj\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Entidades\obj\Debug\Entidades.pdb

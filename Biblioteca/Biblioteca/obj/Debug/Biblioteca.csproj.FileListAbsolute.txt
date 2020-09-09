@@ -1,0 +1,6 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

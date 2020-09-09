@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entidades
+namespace Clase_6
 {
-    class Productos
+    class Program
     {
-        int codigo;
-        string descripcion;
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
