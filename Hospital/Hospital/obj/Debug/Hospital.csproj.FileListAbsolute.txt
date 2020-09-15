@@ -7,7 +7,9 @@ C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital
 C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
 C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.exe
 C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.pdb
-C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
 C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\bin\Debug\Entidades.dll
 C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\bin\Debug\Entidades.pdb
 C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.FrmABMMedico.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.FrmPrincipal.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Hospital\Hospital\obj\Debug\Hospital.FrmABMPaciente.resources

@@ -1,7 +1,0 @@
-C:\Users\carlo\source\repos\Clase 3\bin\Debug\Clase 3.exe.config
-C:\Users\carlo\source\repos\Clase 3\bin\Debug\Clase 3.exe
-C:\Users\carlo\source\repos\Clase 3\bin\Debug\Clase 3.pdb
-C:\Users\carlo\source\repos\Clase 3\obj\Debug\Clase 3.csprojAssemblyReference.cache
-C:\Users\carlo\source\repos\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
-C:\Users\carlo\source\repos\Clase 3\obj\Debug\Clase 3.exe
-C:\Users\carlo\source\repos\Clase 3\obj\Debug\Clase 3.pdb

@@ -31,5 +31,13 @@ namespace Entidades
             set { dolencia = value; }
             get { return dolencia;  }
         }
+
+        public static bool operator +(List<Paciente> p_paciente_array, Paciente p_paciente)
+        {
+            bool v_return = false;
+
+            p_paciente_array.Add(p_paciente);
+            return v_return;
+        }
     }
 }
