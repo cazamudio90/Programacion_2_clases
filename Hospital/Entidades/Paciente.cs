@@ -14,6 +14,30 @@ namespace Entidades
         Enfermedad dolencia;
         string descripcionDolecia;
 
+        public string Nombre
+        {
+            set { nombre = value; }
+            get { return nombre; }
+        }
+
+        public string Apellido
+        {
+            set { apellido = value; }
+            get { return apellido; }
+        }
+
+        public int Dni
+        {
+            set { dni = value; }
+            get { return dni; }
+        }
+
+        public string DescripcionDolecia
+        {
+            set { descripcionDolecia = value; }
+            get { return descripcionDolecia; }
+        }
+
         public Paciente(string p_nombre, string p_apellido, int p_dni, string p_descripcionDolecia)
         {
             this.nombre = p_nombre;
@@ -37,6 +61,8 @@ namespace Entidades
             bool v_return = false;
 
             p_paciente_array.Add(p_paciente);
+            v_return = true;
+
             return v_return;
         }
     }

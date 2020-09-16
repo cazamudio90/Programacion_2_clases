@@ -136,11 +136,6 @@
             this.cbEspecialidad.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbEspecialidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbEspecialidad.FormattingEnabled = true;
-            this.cbEspecialidad.Items.AddRange(new object[] {
-            "Pediatria",
-            "Traumatologia",
-            "Clinica",
-            "Odontologia"});
             this.cbEspecialidad.Location = new System.Drawing.Point(155, 253);
             this.cbEspecialidad.Name = "cbEspecialidad";
             this.cbEspecialidad.Size = new System.Drawing.Size(146, 32);

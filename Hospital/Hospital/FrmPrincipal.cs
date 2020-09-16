@@ -18,6 +18,7 @@ namespace Hospital
         //Paciente[] pacientes;
         //object[] pacientes;
         List<Paciente> pacientes;
+        List<Medico> listaDeMEdicos;
         ArrayList enfermedades;
 
 
@@ -32,7 +33,20 @@ namespace Hospital
 
         private void FrmPrincipal_Load(object sender, EventArgs e)
         {
-        
+            Paciente pc1 = new Paciente("Juan", "Romero", 12345678,"me duele la cabeza");
+            Paciente pc2 = new Paciente("Romina", "Perez", 23456789,"me duele la pierna");
+            Paciente pc3 = new Paciente("Elsa", "Rodriguez", 2345678,"me duele la muela");
+
+            //pacientes.Add(pc1);
+            //pacientes.Add(pc2);
+            //pacientes.Add(pc3);
+            if (pacientes + pc1 && pacientes + pc2 && pacientes + pc3)
+            {
+                this.dgvPacientes.DataSource = pacientes;
+            }
+
+            //listaDeMEdicos.Add(new Medico("Juan", "Romero", 12345678, EEspecialidades.Cardiologia));
+            
         }
 
         private void medicoToolStripMenuItem_Click(object sender, EventArgs e)

@@ -31,8 +31,10 @@ namespace Hospital
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            
-            medico_1 = new Medico(this.txtNombre.Text, this.txtApellido.Text, int.Parse(this.txtDNI.Text), this.cbEspecialidad.SelectedItem.ToString());
+
+            //medico_1 = new Medico("Pepe", "Peposo", 123444,);
+
+            medico_1 = new Medico(this.txtNombre.Text, this.txtApellido.Text, int.Parse(this.txtDNI.Text),  (EEspecialidades)this.cbEspecialidad.SelectedItem);
             this.DialogResult = DialogResult.OK;
         }
 
@@ -42,6 +44,8 @@ namespace Hospital
             //this.txtApellido.Text = "Zamudio";
             //this.txtDNI.Text = "35127002";
             //this.cbEspecialidad.Text = "Pediatria";
+
+            this.cbEspecialidad.DataSource = Enum.GetValues(typeof(EEspecialidades));
 
         }
 

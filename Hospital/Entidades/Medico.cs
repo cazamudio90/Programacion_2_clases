@@ -11,9 +11,9 @@ namespace Entidades
         string nombre;
         string apellido;
         int dni;
-        string especialidad;
+        EEspecialidades especialidad;
 
-        public Medico(string p_nombre, string p_apelldio, int p_dni, string p_especialidad)
+        public Medico(string p_nombre, string p_apelldio, int p_dni, EEspecialidades p_especialidad)
         {
             this.nombre = p_nombre;
             this.apellido = p_apelldio;
