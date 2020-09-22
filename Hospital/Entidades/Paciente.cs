@@ -6,31 +6,31 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Paciente
+    public class Paciente: Persona
     {
-        string nombre;
+        /*string nombre;
         string apellido;
-        int dni;
+        int dni;*/ // se van porque empiezan a tomar los de Persona
         Enfermedad dolencia;
         string descripcionDolecia;
 
-        public string Nombre
-        {
-            set { nombre = value; }
-            get { return nombre; }
-        }
+        /* public string Nombre
+         {
+             set { nombre = value; }
+             get { return nombre; }
+         }
 
-        public string Apellido
-        {
-            set { apellido = value; }
-            get { return apellido; }
-        }
+         public string Apellido
+         {
+             set { apellido = value; }
+             get { return apellido; }
+         }
 
-        public int Dni
-        {
-            set { dni = value; }
-            get { return dni; }
-        }
+         public int Dni
+         {
+             set { dni = value; }
+             get { return dni; }
+         }*/ // se van porque empiezan a tomar los de Persona
 
         public string DescripcionDolecia
         {
@@ -38,11 +38,8 @@ namespace Entidades
             get { return descripcionDolecia; }
         }
 
-        public Paciente(string p_nombre, string p_apellido, int p_dni, string p_descripcionDolecia)
+        public Paciente(string p_nombre, string p_apellido, int p_dni, string p_descripcionDolecia):base(p_nombre, p_apellido, p_dni)
         {
-            this.nombre = p_nombre;
-            this.apellido = p_apellido;
-            this.dni = p_dni;
             this.descripcionDolecia = p_descripcionDolecia;
         }
         //public void SetEnfermedad(Enfermedad p_dolencia)
