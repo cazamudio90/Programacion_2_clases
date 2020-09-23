@@ -6,18 +6,15 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Medico
+    public class Medico : Persona
     {
-        string nombre;
+        /*string nombre;
         string apellido;
-        int dni;
+        int dni;*/
         EEspecialidades especialidad;
 
-        public Medico(string p_nombre, string p_apelldio, int p_dni, EEspecialidades p_especialidad)
+        public Medico(string p_nombre, string p_apelldio, int p_dni, EEspecialidades p_especialidad) : base(p_nombre, p_apelldio, p_dni)
         {
-            this.nombre = p_nombre;
-            this.apellido = p_apelldio;
-            this.dni = p_dni;
             this.especialidad = p_especialidad;
         }
 
