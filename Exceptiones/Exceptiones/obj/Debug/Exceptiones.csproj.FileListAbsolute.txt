@@ -1,0 +1,10 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\bin\Debug\Exceptiones.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\bin\Debug\Exceptiones.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\bin\Debug\Exceptiones.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.Form1.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Exceptiones\Exceptiones\obj\Debug\Exceptiones.pdb
