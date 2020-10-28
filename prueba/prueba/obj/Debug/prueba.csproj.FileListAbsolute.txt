@@ -1,0 +1,2 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\prueba\prueba\obj\Debug\prueba.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache

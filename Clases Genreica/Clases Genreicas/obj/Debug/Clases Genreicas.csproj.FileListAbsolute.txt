@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\bin\Debug\Clases Genreicas.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\bin\Debug\Clases Genreicas.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\bin\Debug\Clases Genreicas.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases Genreicas.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases_Genreicas.FrmNumero.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases_Genreicas.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases Genreicas.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases Genreicas.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases Genreicas.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases Genreicas.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases_Genreicas.FrmNumeroFloat.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Clases Genreica\Clases Genreicas\obj\Debug\Clases Genreicas.csproj.CopyComplete
