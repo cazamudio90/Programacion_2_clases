@@ -1,0 +1,12 @@
+C:\Users\Paola\source\repos\WindowsFormsApp7\Entidades\bin\Debug\Entidades.dll
+C:\Users\Paola\source\repos\WindowsFormsApp7\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Paola\source\repos\WindowsFormsApp7\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Paola\source\repos\WindowsFormsApp7\Entidades\obj\Debug\Entidades.dll
+C:\Users\Paola\source\repos\WindowsFormsApp7\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Paola\source\repos\WindowsFormsApp7\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\ChatHilos-main\Entidades\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\ChatHilos-main\Entidades\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\ChatHilos-main\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\ChatHilos-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\ChatHilos-main\Entidades\obj\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\ChatHilos-main\Entidades\obj\Debug\Entidades.pdb

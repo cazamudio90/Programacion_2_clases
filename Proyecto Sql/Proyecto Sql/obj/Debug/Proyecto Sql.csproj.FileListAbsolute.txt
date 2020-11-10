@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\bin\Debug\Proyecto Sql.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\bin\Debug\Proyecto Sql.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\bin\Debug\Proyecto Sql.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto Sql.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto_Sql.Form1.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto_Sql.LogIn.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto_Sql.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto Sql.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto Sql.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto Sql.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto Sql.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Programacion_2_clases\Proyecto Sql\Proyecto Sql\obj\Debug\Proyecto Sql.pdb
